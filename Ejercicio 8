@@ -1,0 +1,6 @@
+“terminos_con_e” “terminos_con_f” “terminos_con_g” “terminos_con_h” -->
+<a name="terminos_con_a">“terminos_con_b” “terminos_con_c” “terminos_con_d” “terminos_con_e” “terminos_con_f” “terminos_con_g” “terminos_con_h” </a>
+….
+<!-- Aquí estaríamos enlazando a la zona previamente definida a través de un texto -->
+<a href=”#terminos_con_a””#terminos_con_a””#terminos_con_b””#terminos_con_c””#terminos_con_d””#terminos_con_e””#terminos_con_f””#terminos_con_g”>”#terminos_con_h”>Ir a terminos_con_a>Ir a terminos_con_b>Ir a terminos_con_c>Ir a terminos_con_d>Ir a terminos_con_e>Ir a terminos_con_f>Ir a terminos_con_g>Ir a terminos_con_h</a>
+
