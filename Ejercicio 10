@@ -1,0 +1,12 @@
+<div>
+<p title="ferrari">Este párrafo con atributo title es ferrari</p>
+<p id="rojo">Este párrafo tiene un atributo ID que lo identifica</p>
+</div>
+
+<div>
+<p title="Ciudad de New York">Este párrafo con atributo title es Ciudad de New York</p>
+</div>
+
+<div>
+<img src="img/ferrari+rojo+en+calle+de+new+york-jpg.jpg" alt="ferrari rojo en calle new york" width="300" height="200">
+</div>
