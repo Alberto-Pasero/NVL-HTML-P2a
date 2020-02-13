@@ -1,0 +1,40 @@
+<p>Mis 10 peliculas favoritas:</p>
+ <ul>
+<img src="html/img/batman+begins-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Batman begins</li>
+<img src="html/img/batman+el+caballero+oscuro-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Batman el caballero oscuro</li>
+<img src="html/img/batman+el+caballero+oscuro+la+leyenda+renace-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Batman el caballero oscuro la leyenda renace</li>
+<img src="html/img/la+noche+mas+oscura-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>La hora mas oscura</li>
+<img src="html/img/el+ultimo+superviviente-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>El ultimo superviviente</li>
+<img src="html/img/13+horas+los+soldados+secretos+de+bengasi-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>13 horas los soldados secretos de bengasi</li>
+<img src="httml/img/joker-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Joker</li>
+<img src="html/img/ciudadano+ejemplar-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Ciudadano ejemplar</li>
+<img src="html/img/uno+de+los+nuestros-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Uno de los nuestros</li>
+<img src="html/img/el+irlandes-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>El irlandes</li>
+</ul>
+
+<p>Mis 5 peliculas favoritas:</p>
+
+ <ol>
+
+<img src="html/img/batman+begins-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Batman begins</li>
+<img src="html/img/batman+el+caballero+oscuro-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Batman el caballero oscuro</li>
+<img src="html/img/batman+el+caballero+oscuro+la+leyenda+renace-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Batman el caballero oscuro la leyenda renace</li>
+<img src="html/img/uno+de+los+nuestros-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Uno de los nuestros</li>
+<img src="httml/img/joker-jpg.jpg" alt="caratula" width="400" height="300">
+   <li>Joker</li>
+
+ <ol/>
