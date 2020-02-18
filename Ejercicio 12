@@ -1,0 +1,39 @@
+<form method="post" action="elservidor.php">
+<div>
+  <label for=”lugar”>Codigo Postal:</label>
+      <input id=”lugar” type=”text”>
+ </div>
+<div>
+      <label for=”Satisfacción”>Nivel de satisfacción:</label>
+      <select id=”Satisfacción”>
+        <option value=”1”>1</option>
+        <option value=”2”>2</option>
+        <option value=”3”>3</option>
+        <option value=”4”>4</option>
+        <option value=”5”>5</option>
+</select>
+<div>
+      <label for=”Correo”>Correo electronico:</label>
+      <input id=”Correo” type=”text”>
+    </div>
+<div>
+    <label for=”comentario”>comentario positivo:</label>
+    <textarea id=”comentario”></textarea>
+  </div>
+<div>
+    <label for=”comentario”>comentario negativo:</label>
+    <textarea id=”comentario”></textarea>
+  </div>
+label for=”opciones”>opciones a elegir:</label>
+  <div>
+<select id=”opciones”>
+        <option value=”EXC”>Excelente</option>
+        <option value=”BUE”>Bueno</option>
+        <option value=”NOR”>Normal</option>
+        <option value=”REG”>Regular</option>
+        <option value=”PES”>Pesima</option>
+        </select>
+     </div>
+</div>
+  <input type=”submit” value=”Enviar”> 
+</form>
