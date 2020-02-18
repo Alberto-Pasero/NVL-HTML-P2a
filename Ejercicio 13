@@ -1,0 +1,68 @@
+<! DOCTYPE html >
+< html  lang = " en-ES" >
+<head>
+  <title>Mundo Mascota</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="en esta pagina…">
+</head>
+<body>
+  <h1> Mundo Macosta</h1>
+  <p>Mundo Mascota es una empresa que se decica al cuidado y en re-educar algunos compartamientos de tu mascota. Ya sea por que tu trabajo te quita muchas horas al día o por que algunos comportamientos  de tu mascota no son los correctos, puede confiar en nuestro grupo de trabajo que esta compuesto por gente muy profesional</p>
+<h2>¿Cuales son nuestros servicios?</h2>
+  <ol> 
+       <li>sacar de paseo por el parque de nuestras intalaciones.</li>
+       <li>lavado y cepillado.</li>
+       <li>re-educar los malos comportamientos de su mascota.</li>
+</ol> 
+<h2>accesorios para tu mascota</h2>
+<a>«>mundomascota/accesorios</a>
+<a href=»»>mundomascota/accesorios</a>
+<a href=»https://www.mundomascota.com/accesorios«>mundomascota.com/accesorios</a>
+<table>
+<caption>Listado de precios</caption>
+<th>
+<td>(1)Servicio/precio</td
+<td>(2)descuentos/sesiones</td>
+</th>
+  <td>(1,1)Estancia por día/15 euros</td>
+  <td>(1,2)Lavado y cepillado/10 euros</td>
+  <td>(1,3)Cursos de educación/20 euros</td>
+</tr>
+<td>(2,1)30%/10 sesiones</td>
+  <td>(2,2)20%/5 sesiones</td>
+  <td>(2,3)15%/10 sesiones</td>
+</tr>
+<form method="post" action="mundomascota.php">
+<div>
+      <label for=”nombre”>Nombre:</label>
+      <input id=”nombre” type=”text”>
+    </div>
+    <div>
+      <label for=”ape1”>Primer apellido:</label>
+      <input id=”ape1” type=”text”>
+    </div>
+    <div>
+      <label for=”ape2”>Segundo apellido:</label>
+      <input id=”ape2” type=”text”>
+    </div>
+<div>
+  <label for=”lugar”>Codigo Postal:</label>
+      <input id=”lugar” type=”text”>
+ </div>
+<div>
+      <label for=”Correo”>Correo electronico:</label>
+      <input id=”Correo” type=”text”>
+    </div>
+<div>
+      <label for=”telf”>Numero de telefono:</label>
+      <input id=”telf” type=”number”>
+    </div>
+<div>
+    <label for=”Sugerencias”>Dejar sugerencias:</label>
+    <textarea id=”comentario”></textarea>
+  </div>
+  <input type=”submit” value=”Enviar”> 
+</form>
+<p> Para crear la pagina web me he ayudado de internet, y de la plantilla basica que nos venia dentro del modulo. Le he dado un Nombre que sea visible con un primer elemento encabezado y añadiendole un parrafo donde describia el servicio. Luego con un segundo elemento de encabezado y una ista ordenada he puesto los servicios que da la empresa y he añadado un link para poder ver accesorios que comprar para las mascotas. He creado una tabla donde pongo los precios y descuentos y terminado con un formato donde rellenar los datos del usuario </p>
+</body>
+</html>
